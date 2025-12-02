@@ -1,0 +1,1 @@
+vim.keymap.set('n', '<C-p>', ':Neotree filesystem reveal left<CR>')
